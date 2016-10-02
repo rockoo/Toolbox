@@ -16,7 +16,7 @@ more complex.
 
 For the purpose of getting you started we will use a default validator and sanitizer to validate our input.
 
-#### Streamlined Option
+#### Fluent Option
 ```php
 <?php require __DIR__ . '/vendor/autoload.php';
 
