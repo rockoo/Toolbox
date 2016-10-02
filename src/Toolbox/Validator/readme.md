@@ -6,7 +6,7 @@ Package used to validate user input based on custom validators
 
 Just install through composer
 ```json
-composer require fantasyrock/toolbox
+composer require fantasyrock/support
 ```
 
 ## Usage
