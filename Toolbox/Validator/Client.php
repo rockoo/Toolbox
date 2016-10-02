@@ -4,11 +4,9 @@ use Fantasyrock\Validator\Contracts\CanSanitizeInput;
 use Fantasyrock\Validator\Contracts\CanValidateInput;
 use Fantasyrock\Validator\Contracts\ValidatorAbstract;
 use Fantasyrock\Validator\Contracts\ValidatorInterface;
-use Fantasyrock\Validator\Helpers\General;
 
 class Client extends ValidatorAbstract implements ValidatorInterface
 {
-    use General;
 
     public function validateWith(CanValidateInput $validator)
     {

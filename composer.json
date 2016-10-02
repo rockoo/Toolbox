@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Fantasyrock\\": "src/Toolbox/"
+            "Fantasyrock\\": "Toolbox/"
         }
     },
     "require-dev": {
